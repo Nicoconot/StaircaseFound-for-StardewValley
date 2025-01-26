@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\StuffForSSD\\My_Downloads\\Stardew Mods\\StaircaseFoundNotificationSound\\StaircaseFound\\StaircaseFound.csproj": {}
+  },
+  "projects": {
+    "d:\\StuffForSSD\\My_Downloads\\Stardew Mods\\StaircaseFoundNotificationSound\\StaircaseFound\\StaircaseFound.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "d:\\StuffForSSD\\My_Downloads\\Stardew Mods\\StaircaseFoundNotificationSound\\StaircaseFound\\StaircaseFound.csproj",
+        "projectName": "STAIRCASE_FOUND",
+        "projectPath": "d:\\StuffForSSD\\My_Downloads\\Stardew Mods\\StaircaseFoundNotificationSound\\StaircaseFound\\StaircaseFound.csproj",
+        "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
+        "outputPath": "d:\\StuffForSSD\\My_Downloads\\Stardew Mods\\StaircaseFoundNotificationSound\\StaircaseFound\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.stride3d.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pathoschild.Stardew.ModBuildConfig": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

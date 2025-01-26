@@ -1,0 +1,8 @@
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\bin\Debug\net6.0\STAIRCASE_FOUND.deps.json
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\bin\Debug\net6.0\STAIRCASE_FOUND.dll
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\StaircaseFound.csproj.AssemblyReference.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\StaircaseFound.GeneratedMSBuildEditorConfig.editorconfig
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\StaircaseFound.AssemblyInfoInputs.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\StaircaseFound.AssemblyInfo.cs
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\StaircaseFound.csproj.CoreCompileInputs.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\StaircaseFoundNotificationSound\StaircaseFound\obj\Debug\net6.0\STAIRCASE_FOUND.dll

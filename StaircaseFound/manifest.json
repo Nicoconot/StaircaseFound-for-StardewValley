@@ -1,0 +1,10 @@
+{
+    "Name": "Found Ladder Notification Sound",
+    "Author": "Nicoconot",
+    "Version": "1.0.2",
+    "Description": "A simple mod that notifies you when you find a ladder or shaft when mining with an obvious sound and message(optional). You can also enable a notification for when a mine level already has a staircase.",
+    "UniqueID": "nicoconot.foundLadder",
+    "EntryDll": "STAIRCASE_FOUND.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": ["Nexus:30546"]
+  }
